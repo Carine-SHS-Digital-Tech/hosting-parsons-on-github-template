@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example 2
+title: Inputting Numbers
 ---
 <div id="Inputting Numbers-sortableTrash" class="sortable-code"></div> 
 <div id="Inputting Numbers-sortable" class="sortable-code"></div> 
